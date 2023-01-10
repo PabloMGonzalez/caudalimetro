@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#137BC6</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimaryButtonInit">#64B2FF</color>
+    <color name="colorPrimaryButtonEnd">#2680D9</color>
+    <color name="colorPrimaryButtonStroke">#3179C0</color>
+    <color name="colorPrimaryButtonEffectInit">#1B60A5</color>
+    <color name="colorPrimaryButtonEffectEnd">#164F87</color>
+    <color name="colorPrimaryButtonHighlight">#1B60A5</color>
+    <color name="colorPrimaryButtonCaution">#FF4848</color>
+    <color name="colorPrimaryButtonCautionPressed">#C40000</color>
+    <color name="colorPrimaryButtonInsignificant">#CCCCCC</color>
+    <color name="colorPrimaryButtonInsignificantPressed">#444444</color>
+    <color name="colorPrimaryButtonDarkGray">#777777</color>
+
+    <color name="progressCircle">#ffffff</color>
+
+    <color name="color_switch_off">#137BC6</color>
+    <color name="color_switch_on">#137BC6</color>
+    <color name="color_border_chip">#FFFFFF</color>
+
+    <color name="color_item_listado_desconectado">#fffda3</color>
+
+    <color name="backgroundColor_elemento_vista_deshabiliado">#dddddd</color>
+    <color name="backgroundColor_elemento_vista_habiliado">#ffffff</color>
+
+    <color name="dialogo_success">#9BFF9B</color>
+    <color name="dialogo_info">#137BC6</color>
+    <color name="dialogo_warning">#FFFF7D</color>
+    <color name="dialogo_error">#F75555</color>
+
+    <color name="black">#000000</color>
+    <color name="background_slide_impresora">#B0CEFF</color>
+
+    <color name="simpletooltip_background">@color/colorPrimary</color>
+    <color name="simpletooltip_text">@android:color/white</color>
+    <color name="simpletooltip_arrow">@color/colorPrimary</color>
+
+    <color name="color_boton_recepcion">#008C00</color>
+    <color name="color_boton_despacho">#9F5000</color>
+    <color name="color_boton_recepcion_pressed">#005500</color>
+    <color name="color_boton_despacho_pressed">#592D00</color>
+
 </resources>

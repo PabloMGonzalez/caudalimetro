@@ -10,6 +10,12 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+        maven { url "https://jitpack.io" } //toasty
+        flatDir {
+            dirs 'libs'
+        }
     }
 }
 rootProject.name = "caudalimetro"
